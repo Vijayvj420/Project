@@ -1,0 +1,89 @@
+*{
+   margin: 0;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+nav ul{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    width: 50%;
+
+}
+
+.t1{
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lbtn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-right: 5px;
+}
+
+.cen{
+    font-size: 50px;
+    margin-top: 150px;
+    margin-left: 12%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.main-div img{
+    padding-right: 10px;
+   
+}
+.main-div img:hover{
+    cursor: pointer;
+}
+
+.subdiv-1,.subdiv-2, .subdiv-3, .subdiv-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.subdiv-1 ul, .subdiv-2 ul, .subdiv-3 ul, .subdiv-4 ul{
+    list-style-type: none;
+}
+
+h2{
+    color: orangered;
+}
+
+.maindiv2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+
+
+

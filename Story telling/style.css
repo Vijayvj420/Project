@@ -1,0 +1,122 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.showcase{
+    display: flex;
+    /*y axis to x axis */
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: white;
+    text-size-adjust: 100px;
+    position: relative;
+    
+}
+.video-container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.video-content{
+    z-index: 1;
+}
+
+.video-content h1{
+    font-size: 90px;
+    color:red;
+}
+.video-content a{
+    font-size: 50px;
+    margin-left: 70px;
+    align-items: center;
+    justify-content: center;
+    color:yellow;
+}
+.mid-section{
+    margin-top: 300px;
+    
+}
+#story1 p::first-letter{
+    color: blue;
+    font-size: 40px;
+    margin-left: 60px;
+    justify-content: center;
+    text-align: center;
+}
+#story1 p{
+   margin-left: 40px;
+   margin-right: 40px;
+}
+.image{
+    margin-left: 500px;
+    margin-top: 10px;
+}
+#story1 h1{
+    margin-left: 40px;}
+ #story1 ul li{
+        margin-left: 300px;
+        text-decoration: none;
+        margin-top: 20px;
+    }
+    .image2{
+        margin-left: 500px;
+        margin-top: 10px;}
+#foot{
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.icon{
+    cursor: pointer;
+    margin-top: 10px;
+}
+.no1{
+    text-decoration: underline;
+}
+.no2{text-decoration: underline;}
+#story p::first-letter{
+    color:blue;
+    font-size: 40px;
+    margin-left: 60px;
+    justify-content: center;
+    text-align: center;
+}
+#story2 {
+   margin-left: 40px;
+   margin-right: 40px;
+}
+.image{
+    margin-left: 500px;
+    margin-top: 10px;
+}
+#story2 h1{
+    margin-left: 40px;
+margin-top: 30px;}
+ #story2 ol{
+        margin-left: 300px;
+        text-decoration: none;
+        margin-top: 20px;
+        margin-right: 200px;
+    }
+    .image2{
+        margin-left: 500px;
+        margin-top: 10px;}
+
+
+.welcome{
+    align-items: center;
+    margin-left: 120px;
+}
+#foot{
+    background-color: pink;
+    height: 200px;
+    padding: 100px;
+}
+footer h2 {
+    margin-top: 20px;
+}  
+footer a {
+    margin-top: 10px;
+    background-color: black;
+}

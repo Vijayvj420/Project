@@ -1,0 +1,72 @@
+/* element selector */
+
+header h1{
+
+color: brown;
+text-align: center;
+cursor: pointer;
+
+}
+
+header h1:hover
+{
+    text-decoration: underline;
+}
+
+table,tr,td{
+   border: 2px solid blue;
+   border-collapse: collapse;
+}
+
+table{
+    width: 100%;
+    height: 200px;
+}
+
+table td{
+    color: white ;
+    font-weight: bolder;
+    cursor: pointer;
+}
+table td:hover{text-decoration: underline;
+
+}
+
+.V1{
+    background-color:cyan;
+    
+}
+
+.V2{
+    background-color: chocolate;
+}
+.V3{
+    background-color: chartreuse;
+}
+.V3:hover{text-decoration: underline;
+    cursor: pointer;
+    color: sienna;
+}
+
+
+.V4{
+    background-color: crimson;
+}
+.V5{
+    background-color: yellow;
+    color: black;
+}
+.V6{
+    background-color: cornflowerblue;
+}
+#V7{
+    background-color: tomato;
+}
+#V8{
+    background-color: rgb(123, 101, 97);
+}
+#V9{
+    background-color: rgb(77, 133, 17);
+}
+
+

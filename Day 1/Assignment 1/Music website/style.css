@@ -1,0 +1,143 @@
+
+.iconbtn{
+   background-color: rgb(10, 5, 0);
+    color: rgb(252, 248, 248);
+    border-radius: 100px;
+    padding: 5px 20px;
+   text-align: center;
+    font-size: 15px;
+    cursor: pointer;}
+
+    
+
+    nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+        nav ul{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            list-style-type: none;
+            width: 40%; 
+            font-weight: bold;
+        }
+        .h1{padding-top: 100px;
+            font-weight: bold;
+            font-size: 80px;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            }
+            main,.Partners,.Artists,.Publishers,.Podcasters{
+                display: flex;
+                align-items: center;
+                justify-content: center;}
+
+                
+    .Partners,.Artists,.Publishers,.Podcasters{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 280px; 
+    cursor: pointer;}
+
+    .Partners ul,.Artists ul,.Publishers ul,.Podcasters ul {
+        list-style-type: none;
+    }
+    main{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    h3{
+        color: orangered;
+    }
+
+    .pic1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+        cursor: pointer;}
+
+        .pic2{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin: 150px;
+            margin-top: 40px;
+           margin-bottom: 20px;
+            cursor: pointer;}
+
+            img{
+                border-radius: 3%;
+                border: 1px;
+                box-shadow: 1px;}
+
+                .see{
+                    color: black;
+                    font-size: larger;
+                    background-color: whitesmoke;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    margin: 50px;
+                    border-radius: 10px;
+                    padding: 10px 20px;
+                    cursor: pointer;}
+                    
+                    .pr{
+                        color: black;
+                        font-size: 23px;
+                        font-style: inherit;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;}
+
+                        .a1,.a2{
+                            height: 50px; width: 150;
+                            cursor: pointer;
+                        }
+                        .last,.last1{
+                            display: flex;
+                            align-items: center;
+                            justify-content: center; 
+                        }
+                        .in{
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-between; 
+                           
+                        } 
+                        .box{
+                            background: orangered;
+                            width: 50%;
+                            height: 300px;
+                            margin-top: 100px;
+                            text-align: center;
+                            color: aliceblue;
+                        }
+                        .box1{
+                            width: 50%;
+                            height: 300px;
+                            margin-top: 100px;
+                            text-align: center;
+                            color: rgb(15, 15, 15);
+                            background-color: rgb(245, 197, 205);
+                        }
+                        button{
+                            background-color: rgb(241, 234, 226);
+                            color: rgb(14, 13, 13);
+                            border-radius: 50px;
+                           text-align: center;
+                           font-style: oblique;
+                            font-size: 15px;
+                            padding: 10px;
+                            cursor: pointer;
+                        }
+                        
+                    
