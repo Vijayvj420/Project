@@ -1,3 +1,3 @@
 # Project
 
-<p>Take a loo at it</p>
+<p>Take a look at it</p>
